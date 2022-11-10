@@ -1,0 +1,6 @@
+name = "FemtoPhysics-Registry"
+uuid = "6204b28a-60fd-11ed-1861-1118b0e812d7"
+repo = "https://github.com/FemtoPhysics/FemtoPhysics-Registry.git"
+description = "A small `julia` registry repo for `FemtoPhysics`."
+
+[packages]
