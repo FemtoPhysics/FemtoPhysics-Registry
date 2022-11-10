@@ -4,3 +4,4 @@ repo = "https://github.com/FemtoPhysics/FemtoPhysics-Registry.git"
 description = "A small `julia` registry repo for `FemtoPhysics`."
 
 [packages]
+9d743a50-9615-44c3-a48c-d0a59e57ed8d = { name = "ImgAnalysis", path = "ImgAnalysis" }

@@ -1,0 +1,3 @@
+name = "ImgAnalysis"
+uuid = "9d743a50-9615-44c3-a48c-d0a59e57ed8d"
+repo = "https://github.com/FemtoPhysics/ImgAnalysis.jl.git"
