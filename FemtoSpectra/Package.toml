@@ -1,0 +1,3 @@
+name = "FemtoSpectra"
+uuid = "4031b2b4-dfe3-49e7-a2f4-bdce617a3083"
+repo = "https://github.com/FemtoPhysics/FemtoSpectra.jl.git"
